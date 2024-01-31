@@ -28,6 +28,7 @@
     "@midwayjs/validate": "^3.14.0",
     "@midwayjs/view-ejs": "^3.14.0",
     "@shopify/shopify-api": "^9.0.2",
+    "@vercel/node": "^3.0.17",
     "ipip-ipdb": "^0.6.0",
     "mysql2": "^3.7.0",
     "typeorm": "^0.3.19"
