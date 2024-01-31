@@ -9,11 +9,11 @@ export default {
     dataSource: {
       default: {
         type: 'mysql',
-        host: '127.0.0.1',
+        host: '106.52.137.247',
         port: 3306,
-        username: 'newtest',
-        password: 'newtest',
-        database: 'newtest',
+        username: 'Liberoartstudio',
+        password: 'G4y2dED4BaS4KPia',
+        database: 'liberoartstudio',
         // 自动建表 注意：线上部署的时候不要使用，有可能导致数据丢失
         synchronize: true,
         // 打印日志
